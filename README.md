@@ -77,9 +77,9 @@
 
 ## 🔥 Featured Projects
 
-* 🛒 MERN Homemade Crafts E-commerce Platform
+* 🛒 Ecommerce websites(hamropasal, bookstore)
 * 🌍 Travel Booking & Tour Management CMS
-* 💼 Personal Developer Portfolio
+* 💼 Task management system
 
 ---
 
