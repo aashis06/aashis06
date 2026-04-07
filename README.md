@@ -84,6 +84,7 @@
 ---
 
 ⭐ *Always learning. Always building.*
+
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/aashis06/aashis06/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aashis06/aashis06/blob/main/output/github-contribution-grid-snake.svg)
